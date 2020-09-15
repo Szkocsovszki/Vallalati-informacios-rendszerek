@@ -1,1 +1,1 @@
-# Vallalati-informacios-rendszerek
+#Ez a projekt a vállalati információs rendszerek kurzushoz készült.
